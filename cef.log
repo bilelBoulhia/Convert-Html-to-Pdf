@@ -1,0 +1,1070 @@
+[0618/184002.204:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000688000D4600: set chrome proxy config service to 00000688000BC380
+[0618/184002.209:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184002.209:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000068800071680])
+[0618/184002.209:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184002.209:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000068800071680]))
+[0618/184002.218:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184002.254:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184002.317:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184002.880:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000688000D7300: set chrome proxy config service to 00000688001D8280
+[0618/184002.888:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184002.907:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184002.907:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184002.924:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184002.924:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184002.924:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184002.929:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000005610020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184002.929:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184002.929:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184002.932:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yu/l/0,cross/sWkCOGCM5KK.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184002.935:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/NE-BZqwb4n4.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184002.935:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yA/l/0,cross/dwJjvxv8jzT.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184002.935:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/yotEdcUw9Gj.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184002.936:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184002.936:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/DaPJf3IFK7Z.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.036:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3iTOp4/y1/l/fr_FR/9mS1iFuh_oZ.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.038:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184003.063:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184003.063:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184003.063:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184003.064:VERBOSE1:tls_client_handshaker.cc(495)] Client: handshake finished
+[0618/184003.085:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/X08DyUb0hJg.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.090:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/_ibR499T1kb.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.096:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg
+[0618/184003.097:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://facebook.com/security/hsts-pixel.gif?c=3.2.5
+[0618/184003.100:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/O7nelmd9XSI.png
+[0618/184003.101:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/YiJqyJ9jXnQ.png
+[0618/184003.180:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/RFcmdWbVhx9.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.191:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/8yKm-9thKRr.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.193:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/TxJ0GNP5NQz.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.193:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yS/r/ui2DkP-wt_7.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/WeajZf_EolU.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/_tJ17sGyxOX.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/7k5KO8lR42r.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/rJ94RMpIhR7.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/H1jd_z167sp.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3iNG14/yT/l/fr_FR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/jVvSDzaDazm.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/O1MfUTU_1Tk.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.194:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/j0ThrVohGRE.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.195:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/7d7n-uoW7NY.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.195:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/LD7HQv9WNnw.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184003.276:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fbcdn.net/security/hsts-pixel.gif?c=2.5
+[0618/184003.455:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fbsbx.com/security/hsts-pixel.gif?c=5
+[0618/184003.583:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://connect.facebook.net/security/hsts-pixel.gif
+[0618/184003.616:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184003.750:VERBOSE1:frame_impl.cc(612)] frame 17179869185 [4,1] disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[0618/184003.750:VERBOSE1:frame_impl.cc(625)] frame 17179869185 [4,1] connection retry scheduled
+[0618/184003.751:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184003.752:VERBOSE1:dispatcher.cc(648)] Num tracked contexts: 0
+[0618/184003.752:VERBOSE1:frame_impl.cc(612)] frame 17179869185 [4,1] disconnected (reason=DETACHED, current_state=RECONNECT_PENDING, FRAME_INVALID)
+[0618/184302.246:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0000079C000D4600: set chrome proxy config service to 0000079C000BC380
+[0618/184302.251:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184302.251:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000079C00069680])
+[0618/184302.251:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184302.251:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000079C00069680]))
+[0618/184302.261:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184302.273:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184302.303:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184302.928:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0000079C000D7300: set chrome proxy config service to 0000079C001E8280
+[0618/184302.934:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184302.955:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184302.955:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184302.967:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184302.967:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184302.967:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184302.970:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000003CD0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184302.971:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184302.971:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184302.973:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yu/l/0,cross/sWkCOGCM5KK.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184302.977:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/NE-BZqwb4n4.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184302.977:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yA/l/0,cross/dwJjvxv8jzT.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184302.977:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/yotEdcUw9Gj.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184302.977:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184302.978:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/DaPJf3IFK7Z.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.081:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3iTOp4/y1/l/fr_FR/9mS1iFuh_oZ.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.082:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184303.104:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184303.105:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184303.105:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184303.105:VERBOSE1:tls_client_handshaker.cc(495)] Client: handshake finished
+[0618/184303.133:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/X08DyUb0hJg.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.138:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/_ibR499T1kb.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.144:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg
+[0618/184303.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://facebook.com/security/hsts-pixel.gif?c=3.2.5
+[0618/184303.148:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/O7nelmd9XSI.png
+[0618/184303.149:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/YiJqyJ9jXnQ.png
+[0618/184303.220:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/RFcmdWbVhx9.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.232:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/8yKm-9thKRr.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.233:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/TxJ0GNP5NQz.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.234:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yS/r/ui2DkP-wt_7.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.234:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/WeajZf_EolU.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.234:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/_tJ17sGyxOX.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.234:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/7k5KO8lR42r.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.234:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/rJ94RMpIhR7.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.234:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/H1jd_z167sp.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.234:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3iNG14/yT/l/fr_FR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.235:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/jVvSDzaDazm.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.235:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/O1MfUTU_1Tk.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.235:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/j0ThrVohGRE.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.235:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/7d7n-uoW7NY.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.235:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/LD7HQv9WNnw.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184303.318:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fbcdn.net/security/hsts-pixel.gif?c=2.5
+[0618/184303.493:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fbsbx.com/security/hsts-pixel.gif?c=5
+[0618/184303.623:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://connect.facebook.net/security/hsts-pixel.gif
+[0618/184303.657:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184303.796:VERBOSE1:frame_impl.cc(612)] frame 17179869185 [4,1] disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[0618/184303.796:VERBOSE1:frame_impl.cc(625)] frame 17179869185 [4,1] connection retry scheduled
+[0618/184303.796:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184303.797:VERBOSE1:dispatcher.cc(648)] Num tracked contexts: 0
+[0618/184303.798:VERBOSE1:frame_impl.cc(612)] frame 17179869185 [4,1] disconnected (reason=DETACHED, current_state=RECONNECT_PENDING, FRAME_INVALID)
+[0618/184422.713:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0000024C000D4600: set chrome proxy config service to 0000024C000BC380
+[0618/184422.718:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184422.719:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000024C00039680])
+[0618/184422.719:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184422.719:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000024C00039680]))
+[0618/184422.730:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184422.748:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184422.778:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184423.391:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0000024C000D7300: set chrome proxy config service to 0000024C001D8280
+[0618/184423.397:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184423.418:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184423.419:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184423.430:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184423.430:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184423.430:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184423.433:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000001270020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184423.433:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184423.433:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184423.436:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yu/l/0,cross/sWkCOGCM5KK.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.440:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yb/l/0,cross/NE-BZqwb4n4.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.440:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yA/l/0,cross/dwJjvxv8jzT.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.440:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184423.440:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/yotEdcUw9Gj.css?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.440:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/DaPJf3IFK7Z.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.541:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3iTOp4/y1/l/fr_FR/9mS1iFuh_oZ.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.543:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184423.565:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184423.565:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184423.565:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/184423.565:VERBOSE1:tls_client_handshaker.cc(495)] Client: handshake finished
+[0618/184423.590:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/X08DyUb0hJg.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.591:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/_ibR499T1kb.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.602:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg
+[0618/184423.603:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://facebook.com/security/hsts-pixel.gif?c=3.2.5
+[0618/184423.606:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yU/r/O7nelmd9XSI.png
+[0618/184423.607:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y_/r/YiJqyJ9jXnQ.png
+[0618/184423.675:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/RFcmdWbVhx9.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.687:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/8yKm-9thKRr.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.689:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yY/r/TxJ0GNP5NQz.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.689:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yS/r/ui2DkP-wt_7.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/WeajZf_EolU.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yO/r/_tJ17sGyxOX.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/7k5KO8lR42r.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/rJ94RMpIhR7.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/H1jd_z167sp.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3iNG14/yT/l/fr_FR/62y-_-KViTI.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/yl/r/jVvSDzaDazm.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/O1MfUTU_1Tk.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.690:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/j0ThrVohGRE.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.691:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/7d7n-uoW7NY.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.691:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/LD7HQv9WNnw.js?_nc_x=Ij3Wp8lg5Kz
+[0618/184423.781:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fbcdn.net/security/hsts-pixel.gif?c=2.5
+[0618/184423.959:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fbsbx.com/security/hsts-pixel.gif?c=5
+[0618/184424.089:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://connect.facebook.net/security/hsts-pixel.gif
+[0618/184424.129:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184424.260:VERBOSE1:frame_impl.cc(612)] frame 17179869185 [4,1] disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[0618/184424.261:VERBOSE1:frame_impl.cc(625)] frame 17179869185 [4,1] connection retry scheduled
+[0618/184424.261:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184612.230:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0000055C000D4600: set chrome proxy config service to 0000055C000BC380
+[0618/184612.234:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184612.234:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000055C00051680])
+[0618/184612.235:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184612.235:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000055C00051680]))
+[0618/184612.245:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184612.259:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184612.290:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184612.960:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 0000055C000D7600: set chrome proxy config service to 0000055C001D8280
+[0618/184612.967:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184612.989:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184612.989:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184613.000:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184613.000:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184613.000:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184613.003:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000000230020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184613.003:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184613.003:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184613.008:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184613.021:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184613.064:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184627.214:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000514000D4600: set chrome proxy config service to 00000514000BC380
+[0618/184627.219:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184627.219:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000005140006D680])
+[0618/184627.219:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184627.219:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000005140006D680]))
+[0618/184627.230:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184627.242:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184627.270:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184627.950:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000514000D7600: set chrome proxy config service to 00000514001E8280
+[0618/184627.957:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184627.975:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184627.975:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184627.985:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184627.985:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184627.986:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184627.989:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000005BD0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184627.989:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184627.989:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184627.995:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184628.008:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184628.049:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184800.374:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000003D4000D4600: set chrome proxy config service to 000003D4000BC380
+[0618/184800.379:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184800.380:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000003D400041680])
+[0618/184800.380:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184800.380:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000003D400041680]))
+[0618/184800.390:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184800.403:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184800.433:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184801.105:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 000003D4000D4C00: set chrome proxy config service to 000003D4001D8280
+[0618/184801.112:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184801.133:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184801.133:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184801.144:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184801.144:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184801.145:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184801.148:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000006EF0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184801.148:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184801.148:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184801.153:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184801.165:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184801.215:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184813.556:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000460000D4600: set chrome proxy config service to 00000460000BC380
+[0618/184813.561:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184813.561:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=000004600006D680])
+[0618/184813.561:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184813.561:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=000004600006D680]))
+[0618/184813.570:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184813.583:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184813.611:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184815.083:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000460000D7900: set chrome proxy config service to 00000460001E8280
+[0618/184815.089:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184815.110:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184815.110:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184815.121:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184815.121:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184815.121:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184815.124:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000008D0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184815.125:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184815.125:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184815.130:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184815.142:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184815.180:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184821.003:VERBOSE1:statistics_recorder.cc(452)] Collections of all histograms
+Histogram: ChildProcess.FieldTrials.CreateFromShmemSuccess recorded 1 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  -O                                                                        (1 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Cookie.FirstPartySets.InitializationDuration.ReadyToServeQueries2 recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+Histogram: Memory.PartitionAlloc.MemoryReclaim recorded 1 samples, mean = 11.0 (flags = 0x1)
+0  ... 
+9  -O                                                                        (1 = 100.0%) {0.0%}
+12 ... 
+
+Histogram: Memory.PartitionAlloc.PeriodicPurge recorded 2 samples, mean = 7.5 (flags = 0x1)
+0  ... 
+5  -O                                                                        (1 = 50.0%) {0.0%}
+7  O                                                                         (0 = 0.0%) {50.0%}
+9  -O                                                                        (1 = 50.0%) {50.0%}
+12 ... 
+
+Histogram: NQE.CachedNetworkQualityAvailable recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+Histogram: NQE.EffectiveConnectionType.OnECTComputation recorded 4 samples, mean = 5.0 (flags = 0x1)
+0  ... 
+5  ----O                                                                     (4 = 100.0%) {0.0%}
+6  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: NQE.Kbps.ObservationSource recorded 1 samples, mean = 4.0
+0  ... 
+4  -O                                                                        (1 = 100.0%) {0.0%}
+5  ... 
+
+Histogram: NQE.Kbps.OnECTComputation recorded 2 samples, mean = 1456.0 (flags = 0x1)
+0     ... 
+1347  --O                                                                       (2 = 100.0%) {0.0%}
+1774  ... 
+
+Histogram: NQE.RTT.ObservationSource recorded 2 samples, mean = 5.5 (flags = 0x1)
+0  ... 
+4  -O                                                                        (1 = 50.0%) {0.0%}
+5  ... 
+7  -O                                                                        (1 = 50.0%) {50.0%}
+8  ... 
+
+Histogram: NQE.RTT.OnECTComputation recorded 4 samples, mean = 90.0 (flags = 0x1)
+0   ... 
+81  ----O                                                                     (4 = 100.0%) {0.0%}
+96  ... 
+
+Histogram: NQE.TransportRTT.OnECTComputation recorded 3 samples, mean = 33.0 (flags = 0x1)
+0   ... 
+29  ---O                                                                      (3 = 100.0%) {0.0%}
+34  ... 
+
+Histogram: Net.Certificate.IgnoreCertificateErrorsSPKIListPresent recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+Histogram: Net.Certificate.IgnoreErrors recorded 2 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  --O                                                                       (2 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.DNS.DnsConfig.Windows.Compatibility recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS.Request.TotalTime recorded 2 samples, mean = 0.5 (flags = 0x1)
+0  --O                                                                       (2 = 100.0%)
+10 ... 
+
+Histogram: Net.DNS.Request.TotalTimeAsync recorded 2 samples, mean = 0.5 (flags = 0x1)
+0  --O                                                                       (2 = 100.0%)
+10 ... 
+
+Histogram: Net.DNS.ResolveCategory recorded 2 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  --O                                                                       (2 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: Net.DNS.ResolveError.Fast recorded 2 samples (flags = 0x1)
+105  --O                                                                       (2 = 100.0%)
+
+Histogram: Net.DNS.ResolveFailureTime recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  --O                                                                       (2 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS.SecureDnsMode.Automatic.ResolveTime recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  --O                                                                       (2 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS.SystemTask.FailureTime recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  --O                                                                       (2 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS.UpgradeConfig.HasPublicInsecureNameserver recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS.UpgradeConfig.InsecureUpgradeSucceeded recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+Histogram: Net.NumQuicSessionsAtShutdown recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  --O                                                                       (2 = 100.0%)
+1  ... 
+
+Histogram: Net.QuicSession.CloseAllSessionsError recorded 2 samples (flags = 0x1)
+3  --O                                                                       (2 = 100.0%)
+
+Histogram: Net.QuicSession.FinchConfigIsValid recorded 2 samples, mean = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  --O                                                                       (2 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.UDPSocketWinClose recorded 2 samples, mean = 0.0 (flags = 0x1)
+0  --O                                                                       (2 = 100.0%)
+1  ... 
+
+Histogram: ResourceScheduler.ActiveSchedulerClientsCount recorded 7 samples, mean = 0.0 (flags = 0x1)
+0  -------O                                                                  (7 = 100.0%)
+1  ... 
+
+Histogram: V8.Initializer.OpenV8File.Result recorded 1 samples, mean = 0.0 (flags = 0x1)
+0  -O                                                                        (1 = 100.0%)
+1  ... 
+
+
+[0618/184901.179:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000804000D4600: set chrome proxy config service to 00000804000BC380
+[0618/184901.183:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184901.184:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000080400041680])
+[0618/184901.184:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184901.184:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000080400041680]))
+[0618/184901.195:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184901.207:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184901.237:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184901.911:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000804000D7600: set chrome proxy config service to 00000804001D8280
+[0618/184901.918:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184901.939:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184901.939:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184901.950:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184901.950:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184901.950:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184901.953:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000000A30020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184901.953:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184901.953:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184901.958:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184901.971:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184902.011:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/184953.793:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000498000D4600: set chrome proxy config service to 00000498000BC380
+[0618/184953.799:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/184953.799:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000049800059680])
+[0618/184953.799:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/184953.799:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000049800059680]))
+[0618/184953.810:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/184953.822:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/184953.853:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184954.514:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000498000D7300: set chrome proxy config service to 00000498001E8280
+[0618/184954.521:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/184954.527:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/wiki/PDF
+[0618/184954.541:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184954.542:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/184954.552:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/184954.552:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/184954.552:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/184954.554:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184954.624:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000002690020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/184954.624:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/184954.625:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/184954.627:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&only=styles&skin=vector-2022
+[0618/184954.637:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022
+[0618/184954.637:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022
+[0618/184954.638:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/icons/wikipedia.png
+[0618/184954.638:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg
+[0618/184954.639:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg
+[0618/184954.639:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/20px-Pending-protection-shackle.svg.png
+[0618/184954.639:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/121px-PDF_file_icon.svg.png
+[0618/184954.639:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Seitengroesse_PDF_7.png/220px-Seitengroesse_PDF_7.png
+[0618/184954.639:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+[0618/184954.652:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png
+[0618/184954.654:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png
+[0618/184954.673:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/184954.682:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/184954.683:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/184954.684:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/184954.684:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?f88ee
+[0618/184954.684:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/184954.685:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?5cd6d
+[0618/184954.685:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=ext.flaggedRevs.icons&image=articleSearch&format=original&lang=en&skin=vector-2022&version=k5l9s
+[0618/184954.685:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=ext.flaggedRevs.icons&image=expand&format=original&lang=en&skin=vector-2022&version=k5l9s
+[0618/184954.685:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d
+[0618/184954.687:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e
+[0618/184954.706:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/16px-Symbol_na_class.svg.png
+[0618/184954.707:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EBookreal.jpg/100px-EBookreal.jpg
+[0618/184954.707:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+[0618/184954.707:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg
+[0618/184954.707:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png
+[0618/184954.707:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg
+[0618/184954.834:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=1gasq
+[0618/184954.836:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1vn85
+[0618/184954.836:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.growthExperiments.SuggestedEditSession%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cdiff%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.diff.styles%7Cmediawiki.editfont.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1t5t2
+[0618/184954.904:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.referencePreviews%7Cext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=d8wmx
+[0618/184954.906:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1ixyh
+[0618/184954.920:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://login.wikimedia.org/wiki/Special:CentralAutoLogin/checkLoggedIn?type=script&wikiid=enwiki
+[0618/184954.945:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/184954.951:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader&campaign=Africa+Wiki+Challenge+2024&banner=Africa_Wiki_Challenge_2024&uselang=en&debug=false
+[0618/184954.966:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons.js&image=appearance&format=original&lang=en&skin=vector-2022&version=ggjli
+[0618/184954.969:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=skins.vector.search.codex.scripts%7Cvue&skin=vector-2022&version=1k803
+[0618/184954.979:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000026900126938:LayoutNGFlexibleBox (floating) A class='cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle' moved from 749.891,11 44x44 to 697.891,11 44x44 (visible from 750,11 44x44 to 698,11 44x44)
+[0618/184954.979:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000026900126D40:LayoutNGFlexibleBox (relative positioned) NAV class='vector-user-links vector-user-links-wide' moved from 793.891,11 189.109x44 to 741.891,11 241.109x44 (visible from 794,11 189x44 to 742,11 241x44)
+[0618/184954.979:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000026900126E70:LayoutNGFlexibleBox DIV class='vector-user-links-main' moved from 793.891,25 149.109x16 to 741.891,11 201.109x44 (visible from 794,25 149x16 to 742,11 201x44)
+[0618/184954.981:VERBOSE1:layout_shift_tracker.cc(545)] in "https://en.wikipedia.org/wiki/PDF", viewport was 0.972877% impacted with distance fraction 0.040625 and subframe weighting factor 1
+[0618/184954.981:VERBOSE1:layout_shift_tracker.cc(627)] in "https://en.wikipedia.org/wiki/PDF", layout shift of 0.000395231 reported; cumulative score is 0.000395231
+[0618/184955.074:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=userAdd&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/184955.075:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=logIn&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/184955.454:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/185030.655:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000664000D4600: set chrome proxy config service to 00000664000BC380
+[0618/185030.660:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/185030.660:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000066400071680])
+[0618/185030.660:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/185030.660:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000066400071680]))
+[0618/185030.671:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/185030.681:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/185030.709:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/185031.378:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000664000D7300: set chrome proxy config service to 00000664001E8280
+[0618/185031.385:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/185031.391:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/wiki/PDF
+[0618/185031.404:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/185031.405:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/185031.415:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/185031.415:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/185031.415:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/185031.417:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/185031.497:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000007830020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/185031.497:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/185031.497:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/185031.500:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&only=styles&skin=vector-2022
+[0618/185031.510:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022
+[0618/185031.510:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022
+[0618/185031.511:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/icons/wikipedia.png
+[0618/185031.511:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg
+[0618/185031.511:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg
+[0618/185031.511:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/20px-Pending-protection-shackle.svg.png
+[0618/185031.511:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/121px-PDF_file_icon.svg.png
+[0618/185031.511:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Seitengroesse_PDF_7.png/220px-Seitengroesse_PDF_7.png
+[0618/185031.513:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+[0618/185031.524:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png
+[0618/185031.527:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png
+[0618/185031.552:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=1gasq
+[0618/185031.552:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1vn85
+[0618/185031.552:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.growthExperiments.SuggestedEditSession%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cdiff%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.diff.styles%7Cmediawiki.editfont.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1t5t2
+[0618/185031.555:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185031.564:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185031.568:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185031.568:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185031.569:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?f88ee
+[0618/185031.569:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185031.570:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?5cd6d
+[0618/185031.570:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=ext.flaggedRevs.icons&image=articleSearch&format=original&lang=en&skin=vector-2022&version=k5l9s
+[0618/185031.570:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=ext.flaggedRevs.icons&image=expand&format=original&lang=en&skin=vector-2022&version=k5l9s
+[0618/185031.570:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d
+[0618/185031.571:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e
+[0618/185031.571:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg
+[0618/185031.571:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png
+[0618/185031.573:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg
+[0618/185031.577:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/16px-Symbol_na_class.svg.png
+[0618/185031.577:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EBookreal.jpg/100px-EBookreal.jpg
+[0618/185031.577:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+[0618/185031.725:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.referencePreviews%7Cext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=d8wmx
+[0618/185031.728:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1ixyh
+[0618/185031.740:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://login.wikimedia.org/wiki/Special:CentralAutoLogin/checkLoggedIn?type=script&wikiid=enwiki
+[0618/185031.749:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader&campaign=Africa+Wiki+Challenge+2024&banner=Africa_Wiki_Challenge_2024&uselang=en&debug=false
+[0618/185031.764:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons.js&image=appearance&format=original&lang=en&skin=vector-2022&version=ggjli
+[0618/185031.767:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=skins.vector.search.codex.scripts%7Cvue&skin=vector-2022&version=1k803
+[0618/185031.779:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000078300126938:LayoutNGFlexibleBox (floating) A class='cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle' moved from 749.891,11 44x44 to 697.891,11 44x44 (visible from 750,11 44x44 to 698,11 44x44)
+[0618/185031.779:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000078300126D40:LayoutNGFlexibleBox (relative positioned) NAV class='vector-user-links vector-user-links-wide' moved from 793.891,11 189.109x44 to 741.891,11 241.109x44 (visible from 794,11 189x44 to 742,11 241x44)
+[0618/185031.779:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000078300126E70:LayoutNGFlexibleBox DIV class='vector-user-links-main' moved from 793.891,25 149.109x16 to 741.891,11 201.109x44 (visible from 794,25 149x16 to 742,11 201x44)
+[0618/185031.781:VERBOSE1:layout_shift_tracker.cc(545)] in "https://en.wikipedia.org/wiki/PDF", viewport was 0.972877% impacted with distance fraction 0.040625 and subframe weighting factor 1
+[0618/185031.781:VERBOSE1:layout_shift_tracker.cc(627)] in "https://en.wikipedia.org/wiki/PDF", layout shift of 0.000395231 reported; cumulative score is 0.000395231
+[0618/185031.813:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/AFRICA_WIKI_CHALLENGE_LOGO.svg/200px-AFRICA_WIKI_CHALLENGE_LOGO.svg.png
+[0618/185031.814:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/OFWA_New_Logo_Resized.png/200px-OFWA_New_Logo_Resized.png
+[0618/185031.849:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000078300129750:LayoutNGBlockFlow DIV class='mw-content-container' moved from 16,90.0469 975x18577.6 to 16,206.656 975x18577.6 (visible from 16,90 975x1190 to 16,207 975x1073)
+[0618/185031.849:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 24,90.0469 to 24,206.656)
+[0618/185031.849:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000078300129930:LayoutNGFlexibleBox (relative positioned) HEADER class='mw-body-header vector-page-titlebar' moved from 24,90.0469 959x44 to 24,206.656 959x44 (visible from 24,90 959x44 to 24,207 959x44)
+[0618/185031.849:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000078300129B50:LayoutNGBlockFlow (relative positioned) DIV id='vector-page-titlebar-toc' class='vector-dropdown vector-page-titlebar-toc vector-button-flush-left' moved from 12,90.0469 44x44 to 12,206.656 44x44 (visible from 12,90 44x44 to 12,207 44x44)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012A710:LayoutNGBlockFlow (relative positioned) DIV id='p-lang-btn' class='vector-dropdown mw-portlet mw-portlet-lang' moved from 829.297,96.0469 165.703x32 to 829.297,212.656 165.703x32 (visible from 829,96 166x32 to 829,213 166x32)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012B138:LayoutNGBlockFlow (positioned) ::after moved from 24,133.047 959x1 to 24,249.656 959x1 (visible from 24,133 959x1 to 24,250 959x1)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012BA98:LayoutNGFlexibleBox (relative positioned) A moved from 23,134.047 41x37 to 23,250.656 41x37 (visible from 23,134 41x37 to 23,251 41x37)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 24,134.047 to 24,250.656)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012BE50:LayoutNGFlexibleBox (relative positioned) A moved from 78.9062,134.047 26x37 to 78.9062,250.656 26x37 (visible from 79,134 26x37 to 79,251 26x37)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012C6A0:LayoutNGFlexibleBox (relative positioned) A moved from 746.5,134.047 34x37 to 746.5,250.656 34x37 (visible from 747,134 34x37 to 747,251 34x37)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012CA58:LayoutNGFlexibleBox (relative positioned) A moved from 795.969,134.047 26x37 to 795.969,250.656 26x37 (visible from 796,134 26x37 to 796,251 26x37)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012CE10:LayoutNGFlexibleBox (relative positioned) A moved from 835.094,134.047 77x37 to 835.094,250.656 77x37 (visible from 835,134 77x37 to 835,251 77x37)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 836.094,134.047 to 836.094,250.656)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012D1C0:LayoutNGBlockFlow (relative positioned) (floating) DIV id='vector-page-tools-dropdown' class='vector-dropdown vector-page-tools-dropdown' moved from 927.312,134.047 55.6875x34 to 927.312,250.656 55.6875x34 (visible from 927,134 56x34 to 927,251 56x34)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 000007830012D450:LayoutNGFlexibleBox (relative positioned) LABEL id='vector-page-tools-dropdown-label' class='vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet' moved from 927.312,134.047 55.6875x35 to 927.312,250.656 55.6875x35 (visible from 927,134 56x35 to 927,251 56x35)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000078300131638:LayoutNGBlockFlow (relative positioned) DIV id='bodyContent' class='vector-body ve-init-mw-desktopArticleTarget-targetContainer' moved from 23,171.047 961x18496.6 to 23,287.656 961x18496.6 (visible from 23,171 961x1109 to 23,288 961x992)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 24,171.047 to 24,287.656)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 00000783001322A8:LayoutNGBlockFlow SPAN class='flaggedrevs-icon flaggedrevs-icon-articleSearch' moved from 932.031,212.438 20x20 to 932.031,329.047 20x20 (visible from 932,212 20x20 to 932,329 20x20)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 00000783001323F0:LayoutNGBlockFlow SPAN id='mw-fr-revisiontoggle' class='fr-toggle-arrow flaggedrevs-icon flaggedrevs-icon-expand' moved from 957.344,212.438 20x20 to 957.344,329.047 20x20 (visible from 957,212 20x20 to 957,329 20x20)
+[0618/185031.850:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 00000783001331B8:LayoutImage IMG class='mw-file-element' moved from 767.625,293.125 121x149 to 767.625,409.734 121x149 (visible from 768,293 121x149 to 768,410 121x149)
+[0618/185031.853:VERBOSE1:layout_shift_tracker.cc(545)] in "https://en.wikipedia.org/wiki/PDF", viewport was 90.0616% impacted with distance fraction 0.0911011 and subframe weighting factor 1
+[0618/185031.853:VERBOSE1:layout_shift_tracker.cc(627)] in "https://en.wikipedia.org/wiki/PDF", layout shift of 0.0820471 reported; cumulative score is 0.0824423
+[0618/185031.887:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/185032.007:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=userAdd&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185032.009:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=logIn&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185032.382:VERBOSE1:frame_impl.cc(612)] frame 17179869185 [4,1] disconnected (reason=BROWSER_FRAME_DISCONNECT, current_state=CONNECTION_ACKED)
+[0618/185032.382:VERBOSE1:frame_impl.cc(625)] frame 17179869185 [4,1] connection retry scheduled
+[0618/185032.382:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/185041.737:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000748000D4600: set chrome proxy config service to 00000748000BC380
+[0618/185041.742:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/185041.742:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000074800055680])
+[0618/185041.742:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/185041.742:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000074800055680]))
+[0618/185041.753:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/185041.764:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/185041.793:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/185042.464:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000748000D7300: set chrome proxy config service to 00000748001D8280
+[0618/185042.471:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/185042.477:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/wiki/PDF
+[0618/185042.490:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/185042.492:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/185042.502:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/185042.502:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/185042.502:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/185042.503:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/185042.580:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000066B0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/185042.580:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/185042.580:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/185042.583:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&only=styles&skin=vector-2022
+[0618/185042.592:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022
+[0618/185042.592:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022
+[0618/185042.592:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/icons/wikipedia.png
+[0618/185042.593:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg
+[0618/185042.593:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg
+[0618/185042.593:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/20px-Pending-protection-shackle.svg.png
+[0618/185042.593:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/121px-PDF_file_icon.svg.png
+[0618/185042.593:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Seitengroesse_PDF_7.png/220px-Seitengroesse_PDF_7.png
+[0618/185042.596:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png
+[0618/185042.607:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png
+[0618/185042.611:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png
+[0618/185042.626:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185042.634:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185042.637:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185042.638:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185042.638:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?f88ee
+[0618/185042.638:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185042.640:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?5cd6d
+[0618/185042.641:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=ext.flaggedRevs.icons&image=articleSearch&format=original&lang=en&skin=vector-2022&version=k5l9s
+[0618/185042.641:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=ext.flaggedRevs.icons&image=expand&format=original&lang=en&skin=vector-2022&version=k5l9s
+[0618/185042.641:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?fb64d
+[0618/185042.641:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/resources/src/mediawiki.skinning/images/magnify-clip-ltr.svg?8330e
+[0618/185042.659:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/16px-Symbol_na_class.svg.png
+[0618/185042.659:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/EBookreal.jpg/100px-EBookreal.jpg
+[0618/185042.659:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png
+[0618/185042.660:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg
+[0618/185042.660:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png
+[0618/185042.660:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg
+[0618/185042.791:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=1gasq
+[0618/185042.793:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1vn85
+[0618/185042.793:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.growthExperiments.SuggestedEditSession%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cdiff%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.diff.styles%7Cmediawiki.editfont.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Ccodex%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1t5t2
+[0618/185042.859:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.referencePreviews%7Cext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=d8wmx
+[0618/185042.861:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1ixyh
+[0618/185042.873:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://login.wikimedia.org/wiki/Special:CentralAutoLogin/checkLoggedIn?type=script&wikiid=enwiki
+[0618/185042.899:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/185042.904:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://meta.wikimedia.org/w/index.php?title=Special:BannerLoader&campaign=Africa+Wiki+Challenge+2024&banner=Africa_Wiki_Challenge_2024&uselang=en&debug=false
+[0618/185042.920:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons.js&image=appearance&format=original&lang=en&skin=vector-2022&version=ggjli
+[0618/185042.922:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?lang=en&modules=skins.vector.search.codex.scripts%7Cvue&skin=vector-2022&version=1k803
+[0618/185042.933:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000066B00126938:LayoutNGFlexibleBox (floating) A class='cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle' moved from 749.891,11 44x44 to 697.891,11 44x44 (visible from 750,11 44x44 to 698,11 44x44)
+[0618/185042.933:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000066B00126D40:LayoutNGFlexibleBox (relative positioned) NAV class='vector-user-links vector-user-links-wide' moved from 793.891,11 189.109x44 to 741.891,11 241.109x44 (visible from 794,11 189x44 to 742,11 241x44)
+[0618/185042.933:VERBOSE1:layout_shift_tracker.cc(353)] in "https://en.wikipedia.org/wiki/PDF", 0000066B00126E70:LayoutNGFlexibleBox DIV class='vector-user-links-main' moved from 793.891,25 149.109x16 to 741.891,11 201.109x44 (visible from 794,25 149x16 to 742,11 201x44)
+[0618/185042.934:VERBOSE1:layout_shift_tracker.cc(545)] in "https://en.wikipedia.org/wiki/PDF", viewport was 0.972877% impacted with distance fraction 0.040625 and subframe weighting factor 1
+[0618/185042.934:VERBOSE1:layout_shift_tracker.cc(627)] in "https://en.wikipedia.org/wiki/PDF", layout shift of 0.000395231 reported; cumulative score is 0.000395231
+[0618/185043.024:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=userAdd&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185043.026:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=logIn&format=original&lang=en&skin=vector-2022&version=cvvs1
+[0618/185043.397:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
+[0618/185105.241:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000368000D4600: set chrome proxy config service to 00000368000BC380
+[0618/185105.246:VERBOSE1:webrtc_internals.cc(120)] Could not get the download directory.
+[0618/185105.246:VERBOSE1:media_stream_manager.cc(1113)] MSM::InitializeMaybeAsync([this=0000036800049680])
+[0618/185105.246:VERBOSE1:media_stream_manager.cc(1113)] MDM::MediaDevicesManager()
+[0618/185105.246:VERBOSE1:media_stream_manager.cc(1113)] MSM::MediaStreamManager([this=0000036800049680]))
+[0618/185105.256:VERBOSE1:first_party_sets_handler_impl.cc(262)] Empty path. Failed initializing First-Party Sets database.
+[0618/185105.268:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0618/185105.297:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/185105.964:VERBOSE1:pref_proxy_config_tracker_impl.cc(187)] 00000368000D7300: set chrome proxy config service to 00000368001E8280
+[0618/185105.970:VERBOSE1:configured_proxy_resolution_service.cc(1095)] Failed configuring with PAC script, falling-back to manual proxy servers.
+[0618/185105.976:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/
+[0618/185105.989:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/185105.990:INFO:cpu_info.cc(53)] Available number of cores: 12
+[0618/185106.000:VERBOSE1:frame_impl.cc(503)] frame 17179869185 [4,1] connection request (reason=RENDER_FRAME_CREATED)
+[0618/185106.000:VERBOSE1:frame_host_impl.cc(659)] frame 17179869185 [4,1] (main) connected
+[0618/185106.000:VERBOSE1:media_stream_manager.cc(1113)] RFAOSF::Core() [process_id=4, frame_id=1]
+[0618/185106.001:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/185106.826:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  000003BF0020CF90
+  URL:                    
+  context_type:           WEB_PAGE
+  effective extension id: (none)
+  effective context type: WEB_PAGE
+[0618/185106.826:VERBOSE1:script_context.cc(206)] Created context:
+  extension id:           (none)
+  frame:                  0000000000000000
+  URL:                    
+  context_type:           UNSPECIFIED
+  effective extension id: (none)
+  effective context type: UNSPECIFIED
+[0618/185106.827:VERBOSE1:dispatcher.cc(452)] Num tracked contexts: 1
+[0618/185106.829:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.bootstrap.less.css
+[0618/185106.846:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css
+[0618/185106.850:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/components/com_k2/css/k2.css?v=2.11.20240212
+[0618/185106.861:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/templates/system/css/system.css
+[0618/185106.875:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/plugins.system.t3.base-bs3.less.t3.less.css
+[0618/185106.879:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.core.less.css
+[0618/185106.892:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.typography.less.css
+[0618/185106.893:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.forms.less.css
+[0618/185106.893:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.navigation.less.css
+[0618/185106.893:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.navbar.less.css
+[0618/185106.893:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.modules.less.css
+[0618/185106.893:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.joomla.less.css
+[0618/185106.893:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.components.less.css
+[0618/185106.894:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.style.less.css
+[0618/185106.894:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.template.less.css
+[0618/185106.894:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/plugins.system.t3.base-bs3.less.megamenu.less.css
+[0618/185106.894:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.megamenu.less.css
+[0618/185106.894:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/plugins.system.t3.base-bs3.less.off-canvas.less.css
+[0618/185106.894:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/t3-assets/dev/templates.sntf.less.off-canvas.less.css
+[0618/185106.894:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/templates/sntf/fonts/font-awesome/css/font-awesome.min.css
+[0618/185106.895:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css?family=Raleway:100,200,400,700,800,900
+[0618/185106.895:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/mod_vvisit_counter/digit_counter/plain-blue.css
+[0618/185106.895:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/mod_vvisit_counter/stats/default.css
+[0618/185106.896:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/com_acymailing/css/module_default.css?v=1676295849
+[0618/185106.896:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_testimonies/assets/css/testimonies.css
+[0618/185106.896:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_skillset/css/skillset.css
+[0618/185106.896:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/components/com_spsimpleportfolio/assets/css/featherlight.min.css
+[0618/185106.896:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/components/com_spsimpleportfolio/assets/css/spsimpleportfolio.css
+[0618/185106.896:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/mod_sntf/css/style.css
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/css/fields/calendar.css
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_marqueeaholic/css/marquee.css
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/jui/js/jquery.min.js?c6572adbc07d709c174f180e383c733a
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/jui/js/jquery-noconflict.js?c6572adbc07d709c174f180e383c733a
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/jui/js/jquery-migrate.min.js?c6572adbc07d709c174f180e383c733a
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/k2/assets/js/k2.frontend.js?v=2.11.20240212&sitepath=/
+[0618/185106.897:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/js/caption.js?c6572adbc07d709c174f180e383c733a
+[0618/185106.898:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/templates/sntf/js/script.js
+[0618/185106.898:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/plugins/system/t3/base-bs3/bootstrap/js/bootstrap.js
+[0618/185106.898:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/plugins/system/t3/base-bs3/js/jquery.tap.min.js
+[0618/185106.898:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/plugins/system/t3/base-bs3/js/off-canvas.js
+[0618/185106.898:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/plugins/system/t3/base-bs3/js/script.js
+[0618/185106.898:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/plugins/system/t3/base-bs3/js/menu.js
+[0618/185106.898:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/plugins/system/t3/base-bs3/js/nav-collapse.js
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/com_acymailing/js/acymailing_module.js?v=462
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/js/mootools-core.js?c6572adbc07d709c174f180e383c733a
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/js/core.js?c6572adbc07d709c174f180e383c733a
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/components/com_spsimpleportfolio/assets/js/jquery.shuffle.modernizr.min.js
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/components/com_spsimpleportfolio/assets/js/featherlight.min.js
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/components/com_spsimpleportfolio/assets/js/spsimpleportfolio.js
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js
+[0618/185106.899:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/js/fields/calendar-locales/fr.js
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/js/fields/calendar-locales/date/gregorian/date-helper.min.js
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/js/fields/calendar.min.js
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_marqueeaholic/js/jquery.marquee.min.js
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_marqueeaholic/js/jquery.pause.js
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_marqueeaholic/js/jquery.easing.min.js
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/nextend/n2-ss-1/n2-ss-1.css?1701771446
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/nextend/n2/n2.js?1676300339
+[0618/185106.900:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/libraries/nextend2/nextend/media/dist/nextend-gsap.min.js?1676295843
+[0618/185106.901:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/libraries/nextend2/nextend/media/dist/nextend-frontend.min.js?1676295843
+[0618/185106.901:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/libraries/nextend2/smartslider/media/dist/smartslider-frontend.min.js?1676295843
+[0618/185106.901:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/libraries/nextend2/smartslider/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1676295843
+[0618/185106.901:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/libraries/nextend2/nextend/media/dist/nextend-webfontloader.min.js?1676295843
+[0618/185106.901:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/nextend/n2-ss-1/n2-ss-1.js?1701771446
+[0618/185106.954:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/system/css/system.css
+[0618/185107.065:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://www.sntf.dz/media/jui/js/jquery-migrate.min.js?c6572adbc07d709c174f180e383c733a (2)
+[0618/185107.081:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0ITw.woff2
+[0618/185107.106:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/raleway/v34/1Ptug8zYS_SKggPNyC0ITw.woff2
+[0618/185107.132:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_testimonies/assets/js/jquery.carouFredSel-6.0.4-packed.js
+[0618/185107.143:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.googleapis.com/css?family=Raleway:400%7COxygen:400%7COpen+Sans:400&subset=latin
+[0618/185107.144:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/sntf.png
+[0618/185107.144:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/youtube.png
+[0618/185107.144:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/facebook.png
+[0618/185107.144:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/google.png
+[0618/185107.144:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/twiter.png
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/instagram.png
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/playstore.png
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/can.png
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/logoB.png
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/slider/App.jpeg
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/slider/phone.png
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/epaiement1.jpeg
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/slider/google-play-badge-600x180.png
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/slider/intro.jpg
+[0618/185107.145:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/SNTF%20Banner%20logo.png
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/new.gif
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/gare.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/train.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/spsimpleportfolio/trains-de-banlieues/STADLER_600x400.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/spsimpleportfolio/trains-regionaux/CAF_600x400.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/spsimpleportfolio/trains-de-grandes-lignes/DS_600x400.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/spsimpleportfolio/trains-marchandises/DR_600x400.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/coradia01.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/coradia02.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/coradia03.jpg
+[0618/185107.146:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/coradia04.jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/47-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/20-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/50-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/50-75-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/30-40-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/35-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/05-12-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/testimonies/Convention-jpg
+[0618/185107.147:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/images/sntflogo.png
+[0618/185107.148:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/templates/sntf/images/about-right.jpg
+[0618/185107.148:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.175:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.175:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/mod_sntf/css/calendar.png
+[0618/185107.176:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/templates/sntf/images/services-banner.jpg
+[0618/185107.177:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/templates/sntf/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0
+[0618/185107.178:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff2?v=2.4.0
+[0618/185107.189:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.190:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.202:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.202:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.202:VERBOSE1:tls_client_handshaker.cc(495)] Client: handshake finished
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00124F90:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-lg-3 col-md-5 col-sm-12 col-xs-12' moved from 588.047,5 380.234x28 to 578.266,5 373.859x28 (visible from 588,5 380x28 to 578,5 374x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00125918:LayoutNGBlockFlow (floating) DIV class='social-icons' moved from 702.812,5 250.469x28 to 686.656,5 250.469x28 (visible from 703,5 250x28 to 687,5 250x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00125A70:LayoutImage IMG moved from 702.812,5 28x28 to 686.656,5 28x28 (visible from 703,5 28x28 to 687,5 28x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00125C58:LayoutImage IMG moved from 740.828,5 28x28 to 724.672,5 28x28 (visible from 741,5 28x28 to 725,5 28x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00125E40:LayoutImage IMG moved from 777.719,5 28x28 to 761.562,5 28x28 (visible from 778,5 28x28 to 762,5 28x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00126028:LayoutImage IMG moved from 814.609,5 28x28 to 798.453,5 28x28 (visible from 815,5 28x28 to 798,5 28x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00126210:LayoutImage IMG moved from 851.5,5 28x28 to 835.344,5 28x28 (visible from 852,5 28x28 to 835,5 28x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF001263F8:LayoutImage IMG moved from 888.391,5 28x28 to 872.234,5 28x28 (visible from 888,5 28x28 to 872,5 28x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF001265E0:LayoutImage IMG moved from 925.281,5 28x28 to 909.125,5 28x28 (visible from 925,5 28x28 to 909,5 28x28)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012DCF8:LayoutNGBlockFlow (relative positioned) (floating) NAV id='t3-mainnav' class='col-xs-12 col-sm-9 navbar navbar-default t3-mainnav' moved from 281.594,93.5312 691.188x80 to 276.906,93.5312 679.719x80 (visible from 282,94 691x80 to 277,94 680x80)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012EE90:LayoutNGBlockFlow (relative positioned) (floating) LI class='current active' moved from 296.594,93.5312 75.1406x40 to 291.906,93.5312 75.1406x40 (visible from 297,94 75x40 to 292,94 75x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012EFD8:LayoutNGBlockFlow (relative positioned) A moved from 296.594,93.5312 75.1406x40 to 291.906,93.5312 75.1406x40 (visible from 297,94 75x40 to 292,94 75x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F1C0:LayoutNGBlockFlow (relative positioned) (floating) LI class='dropdown mega' moved from 371.734,93.5312 174.625x40 to 367.047,93.5312 174.625x40 (visible from 372,94 174x40 to 367,94 175x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F308:LayoutNGBlockFlow (relative positioned) A class='dropdown-toggle' moved from 371.734,93.5312 174.625x40 to 367.047,93.5312 174.625x40 (visible from 372,94 174x40 to 367,94 175x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F5E0:LayoutNGBlockFlow (relative positioned) (floating) LI class='dropdown mega' moved from 546.359,93.5312 96.0156x40 to 541.672,93.5312 96.0156x40 (visible from 546,94 96x40 to 542,94 96x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F728:LayoutNGBlockFlow (relative positioned) A class='dropdown-toggle' moved from 546.359,93.5312 96.0156x40 to 541.672,93.5312 96.0156x40 (visible from 546,94 96x40 to 542,94 96x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FA00:LayoutNGBlockFlow (relative positioned) (floating) LI class='dropdown mega' moved from 642.375,93.5312 141.156x40 to 637.688,93.5312 141.156x40 (visible from 642,94 142x40 to 638,94 141x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FB48:LayoutNGBlockFlow (relative positioned) A class='dropdown-toggle' moved from 642.375,93.5312 141.156x40 to 637.688,93.5312 141.156x40 (visible from 642,94 142x40 to 638,94 141x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FE20:LayoutNGBlockFlow (relative positioned) (floating) LI moved from 783.531,93.5312 133.5x40 to 778.844,93.5312 133.5x40 (visible from 784,94 133x40 to 779,94 133x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FF68:LayoutNGBlockFlow (relative positioned) A moved from 783.531,93.5312 133.5x40 to 778.844,93.5312 133.5x40 (visible from 784,94 133x40 to 779,94 133x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00130150:LayoutNGBlockFlow (relative positioned) (floating) LI moved from 296.594,133.531 85.25x40 to 291.906,133.531 85.25x40 (visible from 297,134 85x40 to 292,134 85x40)
+[0618/185107.205:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00130298:LayoutNGBlockFlow (relative positioned) A moved from 296.594,133.531 85.25x40 to 291.906,133.531 85.25x40 (visible from 297,134 85x40 to 292,134 85x40)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF001382E8:LayoutNGBlockFlow DIV class='t3-sl spotlight-1 t3-sl-1' moved from 0,460.797 1024x254 to 0,453.141 1007x610.797 (visible from 0,461 1007x254 to 0,453 1007x611)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF001383D8:LayoutNGBlockFlow DIV class='container' moved from 51.2031,520.797 921.594x134 to 50.3438,513.141 906.297x490.797 (visible from 51,521 922x134 to 50,513 907x491)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00138EB8:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-lg-12 col-md-12 col-sm-12 col-xs-12' moved from 51.2031,520.797 921.594x134 to 50.3438,513.141 906.297x244 (visible from 51,521 922x134 to 50,513 907x244)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00139000:LayoutNGBlockFlow DIV id='Mod220' class='t3-module module' moved from 235.516,520.797 552.953x134 to 231.609,513.141 543.766x244 (visible from 236,521 552x134 to 232,513 543x244)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00139CF0:LayoutNGBlockFlow (relative positioned) (floating) DIV class='like-tr white-text col-lg-3 col-md-3 col-sm-3 col-xs-12' moved from 255.516,603.797 128.234x26 to 251.609,596.141 81.25x37.125 (visible from 256,604 128x26 to 252,596 81x37)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00139ED8:LayoutNGFlexibleBox (relative positioned) (floating) DIV class='like-tr col-lg-9 col-md-9 col-sm-9 col-xs-12' moved from 383.75,603.797 384.703x26 to 279.609,596.141 297x26 (visible from 384,604 384x26 to 280,596 297x26)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 383.75,603.797 to 332.859,596.141)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0013A008:LayoutNGFlexibleBox SELECT id='gd' class='inputbox js-example-basic-single' moved from 489.453,603.797 264x25 to 279.609,596.141 282x25 (visible from 489,604 264x25 to 280,596 282x25)
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(545)] in "https://www.sntf.dz/", viewport was 53.6134% impacted with distance fraction 0.166147 and subframe weighting factor 1
+[0618/185107.206:VERBOSE1:layout_shift_tracker.cc(627)] in "https://www.sntf.dz/", layout shift of 0.0890771 reported; cumulative score is 0.0890771
+[0618/185107.211:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/templates/sntf/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.5.0
+[0618/185107.213:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff2?v=2.4.0
+[0618/185107.214:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.220:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.222:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.222:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.222:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.224:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.224:VERBOSE1:tls_client_handshaker.cc(495)] Client: handshake finished
+[0618/185107.231:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/modules/mod_testimonies/assets/images/carousel_nav.png
+[0618/185107.235:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrE.woff2
+[0618/185107.236:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4LcnbuKjk0m.woff2
+[0618/185107.236:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2
+[0618/185107.243:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCMPrEHJA.woff2
+[0618/185107.257:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrE.woff2
+[0618/185107.266:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/oxygen/v15/2sDfZG1Wl4LcnbuKjk0m.woff2
+[0618/185107.268:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2
+[0618/185107.268:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://fonts.gstatic.com/s/raleway/v34/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCMPrEHJA.woff2
+[0618/185107.270:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.270:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/mod_vvisit_counter/digit_counter/plain-blue.png
+[0618/185107.270:VERBOSE1:network_delegate.cc(34)] NetworkDelegate::NotifyBeforeURLRequest: https://www.sntf.dz/media/mod_vvisit_counter/stats/default.png
+[0618/185107.295:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.307:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/30-40-jpg
+[0618/185107.307:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/05-12-jpg
+[0618/185107.307:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/20-jpg
+[0618/185107.309:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.309:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.309:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/47-jpg
+[0618/185107.310:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/35-jpg
+[0618/185107.310:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/50-jpg
+[0618/185107.310:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/50-75-jpg
+[0618/185107.310:VERBOSE1:url_loader.cc(1601)] Will sniff content for mime type: https://www.sntf.dz/images/testimonies/Convention-jpg
+[0618/185107.314:INFO:CONSOLE(1)] "carouFredSel: Set a width for the items!", source:  (1)
+[0618/185107.318:VERBOSE1:tls_handshaker.cc(101)] TlsClient: Continuing handshake
+[0618/185107.318:VERBOSE1:tls_client_handshaker.cc(495)] Client: handshake finished
+[0618/185107.417:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00125918:LayoutNGBlockFlow (floating) DIV class='social-icons' moved from 686.656,5 250.469x28 to 691.078,5 246.047x28.3281 (visible from 687,5 250x28 to 691,5 246x28)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00125A70:LayoutImage IMG moved from 686.656,5 28x28 to 691.078,5.32812 28x28 (visible from 687,5 28x28 to 691,5 28x28)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00125C58:LayoutImage IMG moved from 724.672,5 28x28 to 728.266,5.32812 28x28 (visible from 725,5 28x28 to 728,5 28x28)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00127440:LayoutNGBlockFlow DIV class='container header' moved from 50.3438,78.5312 906.297x106.219 to 50.3438,38.3281 906.297x106.219 (visible from 50,79 907x106 to 50,38 907x107)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00127F20:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-xs-12 col-sm-3 logo' moved from 50.3438,93.5312 226.562x86.2188 to 50.3438,53.3281 226.562x86.2188 (visible from 50,94 227x86 to 50,53 227x87)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF001285D8:LayoutNGButton (relative positioned) BUTTON class='btn btn-primary off-canvas-toggle' moved from 65.3438,93.5312 40x41.1094 to 65.3438,53.3281 40x41.1094 (visible from 65,94 40x41 to 65,53 40x41)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00128800:LayoutImage IMG moved from 65.3438,94.6406 40x40 to 65.3438,54.4375 40x40 (visible from 65,95 40x40 to 65,54 40x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012DCF8:LayoutNGBlockFlow (relative positioned) (floating) NAV id='t3-mainnav' class='col-xs-12 col-sm-9 navbar navbar-default t3-mainnav' moved from 276.906,93.5312 679.719x80 to 276.906,53.3281 679.719x80 (visible from 277,94 680x80 to 277,53 680x80)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012EE90:LayoutNGBlockFlow (relative positioned) (floating) LI class='current active' moved from 291.906,93.5312 75.1406x40 to 291.906,53.3281 77.9531x40 (visible from 292,94 75x40 to 292,53 78x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012EFD8:LayoutNGBlockFlow (relative positioned) A moved from 291.906,93.5312 75.1406x40 to 291.906,53.3281 77.9531x40 (visible from 292,94 75x40 to 292,53 78x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F1C0:LayoutNGBlockFlow (relative positioned) (floating) LI class='dropdown mega' moved from 367.047,93.5312 174.625x40 to 369.859,53.3281 176.406x40 (visible from 367,94 175x40 to 370,53 176x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F308:LayoutNGBlockFlow (relative positioned) A class='dropdown-toggle' moved from 367.047,93.5312 174.625x40 to 369.859,53.3281 176.406x40 (visible from 367,94 175x40 to 370,53 176x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F4F0:LayoutNGBlockFlow EM class='caret' moved from 518.672,112.906 8x4 to 523.266,72.6875 8x4 (visible from 519,113 8x4 to 523,73 8x4)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F5E0:LayoutNGBlockFlow (relative positioned) (floating) LI class='dropdown mega' moved from 541.672,93.5312 96.0156x40 to 546.266,53.3281 98.3125x40 (visible from 542,94 96x40 to 546,53 99x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F728:LayoutNGBlockFlow (relative positioned) A class='dropdown-toggle' moved from 541.672,93.5312 96.0156x40 to 546.266,53.3281 98.3125x40 (visible from 542,94 96x40 to 546,53 99x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012F910:LayoutNGBlockFlow EM class='caret' moved from 614.688,112.906 8x4 to 621.578,72.6875 8x4 (visible from 615,113 8x4 to 622,73 8x4)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FA00:LayoutNGBlockFlow (relative positioned) (floating) LI class='dropdown mega' moved from 637.688,93.5312 141.156x40 to 644.578,53.3281 146.266x40 (visible from 638,94 141x40 to 645,53 146x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FB48:LayoutNGBlockFlow (relative positioned) A class='dropdown-toggle' moved from 637.688,93.5312 141.156x40 to 644.578,53.3281 146.266x40 (visible from 638,94 141x40 to 645,53 146x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FD30:LayoutNGBlockFlow EM class='caret' moved from 755.844,112.906 8x4 to 767.844,72.6875 8x4 (visible from 756,113 8x4 to 768,73 8x4)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FE20:LayoutNGBlockFlow (relative positioned) (floating) LI moved from 778.844,93.5312 133.5x40 to 790.844,53.3281 136.312x40 (visible from 779,94 133x40 to 791,53 136x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0012FF68:LayoutNGBlockFlow (relative positioned) A moved from 778.844,93.5312 133.5x40 to 790.844,53.3281 136.312x40 (visible from 779,94 133x40 to 791,53 136x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00130150:LayoutNGBlockFlow (relative positioned) (floating) LI moved from 291.906,133.531 85.25x40 to 291.906,93.3281 87.4844x40 (visible from 292,134 85x40 to 292,93 87x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00130298:LayoutNGBlockFlow (relative positioned) A moved from 291.906,133.531 85.25x40 to 291.906,93.3281 87.4844x40 (visible from 292,134 85x40 to 292,93 87x40)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00526140:LayoutImage IMG moved from 327.906,809.984 48x48 to 335.672,810.984 48x48 (visible from 328,810 48x48 to 336,811 48x48)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00521A40:LayoutNGBlockFlow DIV class='content-body' moved from 50.3438,1239.58 438.141x191.641 to 50.3438,1368.73 438.141x191.641 (visible from 50,1240 438x40 to 0,0 0x0)
+[0618/185107.418:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00523318:LayoutNGBlockFlow DIV class='content-body' moved from 518.484,1239.58 438.141x191.641 to 518.484,1368.73 438.141x191.641 (visible from 518,1240 439x40 to 0,0 0x0)
+[0618/185107.419:VERBOSE1:layout_shift_tracker.cc(545)] in "https://www.sntf.dz/", viewport was 13.8202% impacted with distance fraction 0.100903 and subframe weighting factor 1
+[0618/185107.419:VERBOSE1:layout_shift_tracker.cc(627)] in "https://www.sntf.dz/", layout shift of 0.0139451 reported; cumulative score is 0.103022
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF001382E8:LayoutNGBlockFlow DIV class='t3-sl spotlight-1 t3-sl-1' moved from 0,453.141 1007x611.797 to 0,503 1007x611.797 (visible from 0,453 1007x612 to 0,503 1007x612)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00138EB8:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-lg-12 col-md-12 col-sm-12 col-xs-12' moved from 50.3438,513.141 906.297x245 to 50.3438,563 906.297x245 (visible from 50,513 907x245 to 50,563 907x245)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00139CF0:LayoutNGBlockFlow (relative positioned) (floating) DIV class='like-tr white-text col-lg-3 col-md-3 col-sm-3 col-xs-12' moved from 251.609,597.141 81.25x37.125 to 251.609,647 81.25x37.125 (visible from 252,597 81x37 to 252,647 81x37)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00139ED8:LayoutNGFlexibleBox (relative positioned) (floating) DIV class='like-tr col-lg-9 col-md-9 col-sm-9 col-xs-12' moved from 332.859,597.141 243.75x26 to 332.859,647 243.75x26 (visible from 333,597 244x26 to 333,647 244x26)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065B3F0:LayoutNGBlockFlow (relative positioned) SPAN class='select2 select2-container select2-container--default' moved from 332.859,597.141 228.75x29 to 332.859,647 228.75x29 (visible from 333,597 229x29 to 333,647 229x29)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065B878:LayoutNGBlockFlow SPAN class='select2-selection select2-selection--single' moved from 332.859,597.141 228.75x29 to 332.859,647 228.75x29 (visible from 333,597 229x29 to 333,647 229x29)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065BC40:LayoutNGBlockFlow (positioned) SPAN class='select2-selection__arrow' moved from 540.609,598.141 20x26 to 540.609,648 20x26 (visible from 541,598 20x26 to 541,648 20x26)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065BD88:LayoutNGBlockFlow (positioned) B moved from 546.609,609.141 8x5 to 546.609,659 8x5 (visible from 547,609 8x5 to 547,659 8x5)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0053D3B8:LayoutNGBlockFlow (relative positioned) (floating) DIV class='like-tr white-text col-lg-3 col-md-3 col-sm-3 col-xs-12' moved from 251.609,628.141 81.25x37.125 to 251.609,678 81.25x37.125 (visible from 252,628 81x37 to 252,678 81x37)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0052A968:LayoutNGFlexibleBox (relative positioned) (floating) DIV class='like-tr col-lg-9 col-md-9 col-sm-9 col-xs-12' moved from 332.859,628.141 243.75x26 to 332.859,678 243.75x26 (visible from 333,628 244x26 to 333,678 244x26)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065B660:LayoutNGBlockFlow (relative positioned) SPAN class='select2 select2-container select2-container--default' moved from 332.859,628.141 228.75x29 to 332.859,678 228.75x29 (visible from 333,628 229x29 to 333,678 229x29)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065BF28:LayoutNGBlockFlow SPAN class='select2-selection select2-selection--single' moved from 332.859,628.141 228.75x29 to 332.859,678 228.75x29 (visible from 333,628 229x29 to 333,678 229x29)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065C2F0:LayoutNGBlockFlow (positioned) SPAN class='select2-selection__arrow' moved from 540.609,629.141 20x26 to 540.609,679 20x26 (visible from 541,629 20x26 to 541,679 20x26)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0065C438:LayoutNGBlockFlow (positioned) B moved from 546.609,640.141 8x5 to 546.609,690 8x5 (visible from 547,640 8x5 to 547,690 8x5)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0052A340:LayoutNGButton (relative positioned) BUTTON id='swap-gare' class='btn btn-xs hasPopover' moved from 576.625,607.141 46x33 to 576.625,657 46x33 (visible from 577,607 46x33 to 577,657 46x33)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0052A068:LayoutNGBlockFlow (relative positioned) (floating) DIV class='like-tr white-text col-lg-3 col-md-3 col-sm-3 col-xs-12' moved from 251.609,660.141 125.938x26 to 251.609,710 125.938x26 (visible from 252,660 126x26 to 252,710 126x26)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00529530:LayoutNGBlockFlow (relative positioned) (floating) DIV class='like-tr col-lg-9 col-md-9 col-sm-9 col-xs-12' moved from 377.547,660.141 377.812x52 to 377.547,710 377.812x52 (visible from 378,660 377x52 to 378,710 377x52)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00529858:LayoutNGTextControlSingleLine (relative positioned) (floating) INPUT id='dd' moved from 377.547,660.141 189x25 to 377.547,710 189x25 (visible from 378,660 189x25 to 378,710 189x25)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00529B88:LayoutNGButton (relative positioned) (floating) BUTTON id='dd_btn' class='btn btn-secondary' moved from 565.547,660.141 32x32 to 565.547,710 32x32 (visible from 566,660 32x32 to 566,710 32x32)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00529CC0:LayoutNGBlockFlow SPAN class='icon-calendar' moved from 566.547,661.141 30x30 to 566.547,711 30x30 (visible from 567,661 30x30 to 567,711 30x30)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00528670:LayoutNGBlockFlow (relative positioned) (floating) DIV class='like-tr col-lg-8 col-md-6 col-sm-8 col-xs-12' moved from 251.609,712.141 251.875x41.4219 to 251.609,762 251.875x41.4219 (visible from 252,712 251x42 to 252,762 251x41)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF005287B8:LayoutNGButton (relative positioned) BUTTON class='submitters' moved from 251.609,712.141 93.5469x31.4219 to 251.609,762 93.5469x31.4219 (visible from 252,712 93x32 to 252,762 93x31)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00528B20:LayoutNGButton (relative positioned) BUTTON class='submitters' moved from 353.781,712.141 63.25x31.4219 to 353.781,762 63.25x31.4219 (visible from 354,712 63x32 to 354,762 63x31)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00525538:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-lg-12 col-md-12 col-sm-12 col-xs-12' moved from 50.3438,758.141 906.297x201.109 to 50.3438,808 906.297x201.109 (visible from 50,758 907x201 to 50,808 907x201)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00526558:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-6' moved from 50.3438,911.828 453.141x47.4219 to 50.3438,961.688 453.141x47.4219 (visible from 50,912 453x47 to 50,962 453x47)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF005266A0:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-4' moved from 65.3438,911.828 180x47.4219 to 65.3438,961.688 180x47.4219 (visible from 65,912 180x47 to 65,962 180x47)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF005268D8:LayoutNGBlockFlow (relative positioned) A class='btn' moved from 80.3438,911.828 160x37.4219 to 80.3438,961.688 160x37.4219 (visible from 80,912 160x37 to 80,962 160x37)
+[0618/185107.491:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00526AC0:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-4' moved from 206.375,911.828 180x47.4219 to 206.375,961.688 180x47.4219 (visible from 206,912 180x47 to 206,962 180x47)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00526CF8:LayoutNGBlockFlow (relative positioned) A class='btn' moved from 221.375,911.828 160x37.4219 to 221.375,961.688 160x37.4219 (visible from 221,912 160x37 to 221,962 160x37)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00526EE0:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-4' moved from 347.406,911.828 180x47.4219 to 347.406,961.688 180x47.4219 (visible from 347,912 180x47 to 347,962 180x47)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527118:LayoutNGBlockFlow (relative positioned) A class='btn' moved from 362.406,911.828 160x37.4219 to 362.406,961.688 160x37.4219 (visible from 362,912 160x37 to 362,962 160x37)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527300:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-6' moved from 503.484,911.828 453.141x47.4219 to 503.484,961.688 453.141x47.4219 (visible from 503,912 454x47 to 503,962 454x47)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527448:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-4' moved from 518.484,911.828 180x47.4219 to 518.484,961.688 180x47.4219 (visible from 518,912 180x47 to 518,962 180x47)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527680:LayoutNGBlockFlow (relative positioned) A class='btn' moved from 533.484,911.828 160x37.4219 to 533.484,961.688 160x37.4219 (visible from 533,912 160x37 to 533,962 160x37)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527868:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-4' moved from 659.516,911.828 180x47.4219 to 659.516,961.688 180x47.4219 (visible from 660,912 180x47 to 660,962 180x47)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527AA0:LayoutNGBlockFlow (relative positioned) A class='btn' moved from 674.516,911.828 160x37.4219 to 674.516,961.688 160x37.4219 (visible from 675,912 160x37 to 675,962 160x37)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527C88:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-4' moved from 800.547,911.828 280x47.4219 to 800.547,961.688 280x47.4219 (visible from 801,912 206x47 to 801,962 206x47)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00527EC0:LayoutNGBlockFlow (relative positioned) A class='btn' moved from 815.547,911.828 260x37.4219 to 815.547,961.688 260x37.4219 (visible from 816,912 191x37 to 816,962 191x37)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00525350:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-lg-12 col-md-12 col-sm-12 col-xs-12' moved from 50.3438,959.25 906.297x22.8438 to 50.3438,1009.11 906.297x22.8438 (visible from 50,959 907x23 to 50,1009 907x23)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00525168:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-lg-12 col-md-12 col-sm-12 col-xs-12' moved from 50.3438,982.094 906.297x22.8438 to 50.3438,1031.95 906.297x22.8438 (visible from 50,982 907x23 to 50,1032 907x23)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0055C3C0:LayoutNGBlockFlow DIV class='t3-sl spotlight-2 t3-sl-2' moved from 0,1064.94 1007x643.969 to 0,1114.8 1007x643.969 (visible from 0,1065 1007x215 to 0,1115 1007x165)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0055CF90:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-lg-12 col-md-12 col-sm-12 col-xs-12' moved from 35.3438,1134.94 936.297x425.438 to 35.3438,1184.8 936.297x425.438 (visible from 35,1135 937x145 to 35,1185 937x95)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(362)]  (starting point from 50.3438,1134.94 to 50.3438,1184.8)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0055E080:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-6' moved from 35.3438,1178.94 468.141x381.438 to 35.3438,1228.8 468.141x381.438 (visible from 35,1179 468x101 to 35,1229 468x51)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF0055ED08:LayoutImage IMG moved from 169.406,1218.73 200x150 to 169.406,1268.59 200x150 (visible from 169,1219 200x61 to 169,1269 200x11)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF005220D8:LayoutNGBlockFlow (relative positioned) (floating) DIV class='col-md-6' moved from 503.484,1178.94 468.141x381.438 to 503.484,1228.8 468.141x381.438 (visible from 503,1179 469x101 to 503,1229 469x51)
+[0618/185107.492:VERBOSE1:layout_shift_tracker.cc(353)] in "https://www.sntf.dz/", 000003BF00522D60:LayoutImage IMG moved from 637.547,1218.73 200x150 to 637.547,1268.59 200x150 (visible from 638,1219 200x61 to 638,1269 200x11)
+[0618/185107.493:VERBOSE1:layout_shift_tracker.cc(545)] in "https://www.sntf.dz/", viewport was 64.6094% impacted with distance fraction 0.0389526 and subframe weighting factor 1
+[0618/185107.493:VERBOSE1:layout_shift_tracker.cc(627)] in "https://www.sntf.dz/", layout shift of 0.0251671 reported; cumulative score is 0.128189
+[0618/185107.522:WARNING:task_impl.cc(20)] No task runner for threadId 6
+[0618/185107.902:VERBOSE1:frame_host_impl.cc(492)] frame 17179869185 [4,1] (main) detached (reason=NEW_MAIN_FRAME, is_connected=1)
